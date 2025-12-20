@@ -11,11 +11,12 @@
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=molinajs&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molinajs&layout=compact&theme=dark)
-
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=molinajs&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molinajs&layout=compact&theme=dark" />
+</div>
 ---
 
 ## 🚀 Projetos em Destaque
