@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou João Rodrigues Molina
+## 👋 Olá, eu sou João Victor Rodrigues Molina
 
 💻 **Desenvolvedor Front-end** | Estudante de ADS  
 🚀 Focado em criar interfaces modernas, responsivas e funcionais  
