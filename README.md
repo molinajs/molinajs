@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Olá, eu sou João Rodrigues Molina
 
-<!--
-**molinajs/molinajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Front-end** | Estudante de ADS  
+🚀 Focado em criar interfaces modernas, responsivas e funcionais  
+📚 Estudando **APIs, TypeScript e Banco de Dados**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Linguagens & Tecnologias
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,github&theme=dark)
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=molinajs&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molinajs&layout=compact&theme=dark)
+
+---
+
+## 🚀 Projetos em Destaque
+📌 Confira meus repositórios fixados abaixo  
+📌 Projetos focados em **Front-end, Web e Sistemas**
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://www.linkedin.com/in/molina-joao/)
+
+✉️ **Email:** molinajoao48@gmail.com
