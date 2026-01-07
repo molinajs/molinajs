@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Linguagens & Tecnologias
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,git,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,git,github&theme=dark)
 
 ---
 
