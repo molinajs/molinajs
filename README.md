@@ -7,7 +7,7 @@ Atualmente, estou cursando ciências da computação na UFPel.
 <h1>Projetos em Destaque</h1>
 
 <h3> 
-    <a href= "https://github.com/molinajs/Sistema-Biblioteca">Sistema de Biblioteca</a>    
+    <a href= "https://github.com/molinajs/Biblio_Pel">Sistema de Biblioteca</a>    
 </h3>
 
 <p>Sistema desenvolvido para gerenciamento de biblioteca, com funcionalidades para <strong> organizar livros e facilitar o controle do acervo.<strong> </p>
