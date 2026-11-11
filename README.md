@@ -34,6 +34,8 @@ Atualmente, estou cursando ciências da computação na UFPel.
 
 <p>Disponível para desktop e mobile.</p>
 
+➡️ site online ➡️ https://coffepel.netlify.app/
+
 <h1>Tecnologias</h1>
 
 <img 
