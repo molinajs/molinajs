@@ -20,6 +20,20 @@ Atualmente, estou cursando ciências da computação na UFPel.
 
 <p>Disponível exclusivamente para desktop.</p>
 
+<h3> 
+    <a href= "https://github.com/molinajs/Coffe_Pel.git">Coffe_Pel</a>    
+</h3>
+
+<p>Site desenvolvido para apresentar a cafeteria Coffee Pel, com funcionalidades para <strong>divulgar produtos, apresentar o cardápio e facilitar o contato com os clientes.</strong></p>
+
+<ul>
+    <li>Linguagem: HTML5, CSS3, JavaScript.</li>
+    <li>Funcionalidades: Apresentação do cardápio, divulgação de produtos, informações sobre a cafeteria, localização e acesso às         redes sociais.</li>
+    <li>Objetivo: Praticar programação e desenvolvimento de sistemas.</li>
+</ul>
+
+<p>Disponível para desktop e mobile.</p>
+
 <h1>Tecnologias</h1>
 
 <img 
