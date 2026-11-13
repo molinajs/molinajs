@@ -2,7 +2,9 @@
 
 <p> Desenvolvedor <strong> Back-End </strong> focado no ambiente C++, sou apaixonado por tecnologia e programação. </p>
 
-Atualmente, estou cursando ciências da computação na UFPel.  
+Atualmente, estou cursando ciências da computação na UFPel. 
+
+<p>PORTFÓLIO: https://portfolio-joao-3d.vercel.app/</p>
 
 <h1>Projetos em Destaque</h1>
 
