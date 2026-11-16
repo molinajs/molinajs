@@ -1,6 +1,6 @@
 <h1>Olá, me chamo João Victor Rodrigues Molina</h1>
 
-<p> Desenvolvedor <strong> Back-End </strong> focado no ambiente C++, sou apaixonado por tecnologia e programação. </p>
+<p> Desenvolvedor <strong> Back-End </strong> focado no ambiente Javascript, sou apaixonado por tecnologia e programação. </p>
 
 Atualmente, estou cursando ciências da computação na UFPel. 
 
