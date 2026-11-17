@@ -4,7 +4,7 @@
 
 Atualmente, estou cursando ciências da computação na UFPel. 
 
-<p>PORTFÓLIO: https://portfolio-joao-3d.vercel.app/</p>
+<p>PORTFÓLIO: https://portfolio-eta-mauve-70.vercel.app//</p>
 
 <h1>Projetos em Destaque</h1>
 
